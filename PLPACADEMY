@@ -1,3 +1,12 @@
-git add PLP.docs
+mkdr plpacademy
+cd plpacademy
+
+git config -- global user.name
+"PhilipNduati254"
+git config -- global user.email
+"philipndwats2gmail.com"
 git init
+git status
+git add "PLP.docx"
+
 git config
